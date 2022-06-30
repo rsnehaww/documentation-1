@@ -18,6 +18,7 @@ You can suggest new services by [opening an issue on GitHub](https://github.com/
 - [MinIO](https://min.io)
 - [VaultWarden](https://github.com/dani-garcia/vaultwarden)
 - [LanguageTool](https://languagetool.org)
+- [pltext]([https://pltext.com/]
 - [n8n](https://n8n.io)
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma)
 - [MeiliSearch](https://github.com/meilisearch/meilisearch)
